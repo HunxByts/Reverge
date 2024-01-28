@@ -19,7 +19,7 @@ pkg install python3
 ```
 git clone https://github.com/HunxByts/Reverge.git
 cd Reverge
-pip3 install hexdump
+pip3 install  -r requirements.txt
 python3 reverge.py -h
 ```
 
